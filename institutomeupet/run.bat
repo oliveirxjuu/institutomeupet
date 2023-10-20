@@ -1,2 +1,2 @@
-manage.py runserver
+manage.py runserver 
 pause
